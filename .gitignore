@@ -139,4 +139,3 @@ buildNumber.properties
 
 .gitignore
 .idea/workspace.xml
-src/
